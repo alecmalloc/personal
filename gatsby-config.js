@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Alec the Computerboy`,
+    title: `i f*cking love computers`,
     author: {
       name: `Alec Stuart Eastman`,
-      summary: `who lives and works in Berlin building fun and sometimes useful things.`,
+      summary: `who lives and works in Berlin building fun and occasionally useful things.`,
     },
     description: `My first attempt at a personal website and blog`,
     siteUrl: `https://aleceastman.com/`,
@@ -113,7 +113,7 @@ module.exports = {
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
+        // theme_color: `#ff0000`,
         display: `minimal-ui`,
         icon: `src/images/ase icon.png`, // This path is relative to the root of the site.
       },
