@@ -107,7 +107,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Alec the Computerboy`,
+        name: `Alec's computer diaries`,
         short_name: `ASE`,
         start_url: `/`,
         background_color: `#ffffff`,
