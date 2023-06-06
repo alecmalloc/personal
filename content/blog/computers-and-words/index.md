@@ -4,7 +4,7 @@ date: "2023-06-06"
 description: "A brief introduction"
 ---
 
-![Dall-E Clip art](./computers-and-words-art.png)
+![Dall-E Clip art](./computers_and_words_art.png)
 
 *I was never a great writer.* 
 
