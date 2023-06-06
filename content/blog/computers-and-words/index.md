@@ -1,5 +1,5 @@
 ---
-title: "Computers and words"
+title: "Computers and Words"
 date: "2023-06-06"
 description: "A brief introduction"
 ---
